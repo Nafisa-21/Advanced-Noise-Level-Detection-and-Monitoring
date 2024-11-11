@@ -32,7 +32,7 @@ The project utilizes an Arduino UNO and a sound sensor module. The sound sensor 
 
 ## Circuit Diagram
 <h1 align="center">
-   <img src="Picture1.png" width="500" height="500" />
+   <img src="Picture1.png" width="600" height="600" />
 </h1>
 
 ---
