@@ -9,10 +9,9 @@ The Noise Level Detector is an Arduino-based project designed to measure and dis
 
 ---
 
-
-
 ## Motivation
-The idea for this project emerged as a fun solution to a teammate's problem of being scolded for shouting during online gaming. It later evolved into a practical application to address sound pollution, a significant issue in densely populated cities. By detecting noise levels that exceed specified thresholds, the system aims to help control sound levels in noise-sensitive areas like hospitals, schools, and libraries.
+The motivation behind this project stems from the growing need to address noise pollution, a major public health and environmental concern. Excessive noise can have detrimental effects on human health, including stress, hearing loss, and decreased productivity. This project seeks to provide a reliable and efficient method to detect and monitor noise levels, ensuring that noise-sensitive areas such as hospitals, schools, libraries, and public spaces maintain an environment conducive to health, focus, and peace. By proactively detecting noise beyond acceptable limits, the system aims to aid in noise management and promote well-being in urban and community settings.
+
 
 ---
 
